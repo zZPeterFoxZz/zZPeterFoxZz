@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PeterFox
-- 👀 I’m interested in games and cyber secueity
+- 👀 I’m interested in games and cyber security
 - 🌱 I’m currently learning python program
 - 💞️ I’m looking to collaborate on software development and security organizations
 - 📫 How to reach me? Get me in toch via e-mail: Foxpeterrodriguez09@gmail.com
